@@ -1,10 +1,10 @@
 # ccx_prool
 Prool's modifications of CalculiX CrunchiX (ccx)
 
-download binaryes for windows
+download latest 64bin binaries for windows
 -----------------------------
 
-http://files.calculix.kharkov.org/ccx_prool/4/ccx_5_jul_2015.zip
+ccx_prool\CalculiX-bin-folder
 
 cygwin
 ------
