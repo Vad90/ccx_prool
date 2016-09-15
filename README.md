@@ -5,6 +5,7 @@ download latest 64bin binaries for windows
 -----------------------------
 
 ccx_prool\CalculiX-bin-folder
+https://github.com/easyw/ccx_prool/tree/master/CalculiX-bin-folder
 
 cygwin
 ------
