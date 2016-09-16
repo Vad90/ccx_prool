@@ -7,6 +7,12 @@ download latest 64bin binaries for windows
 ccx_prool\CalculiX-bin-folder
 https://github.com/easyw/ccx_prool/tree/master/CalculiX-bin-folder
 
+for Multi Thread follow this guide
+http://web.mit.edu/calculix_v2.7/CalculiX/ccx_2.7/doc/ccx/node3.html
+setting ENV VARS
+or just run the batch file
+     `ccx211_MT-64.bat`
+
 cygwin
 ------
 
