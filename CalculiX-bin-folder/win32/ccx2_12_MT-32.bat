@@ -1,0 +1,6 @@
+@echo number of Processors %NUMBER_OF_PROCESSORS%
+SET OMP_NUM_THREADS=%NUMBER_OF_PROCESSORS%
+SET CCX_NPROC_RESULTS=%NUMBER_OF_PROCESSORS%
+:: C:\Calculix-212-32\ccx212_MT-32.exe %*
+:: echo %~p0
+%~p0ccx2_12_MT-32.exe %*
